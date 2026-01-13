@@ -67,19 +67,4 @@ B.Tech Computer Science student focused on problem-solving, clean code, and buil
 </p>
 
 
-## ⏱ Coding Activity
-
-<p align="left">
-  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" />
-</p>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&width=435&lines=Code+since+Hello+World+%F0%9F%91%8B" />
-</p>
-
-
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dushyant91&layout=compact" />
-</p>
 
