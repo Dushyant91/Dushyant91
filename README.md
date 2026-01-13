@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on Web Projects.
 
-🧠 Actively exploring Machine Learning, Data Analysis, and modern Web Technologies
+🧠 I'm currently learning Machine Learning, Data Analysis, DSA and modern Web Technologies
 
 🔬 Former Research & Development Intern at [Urban Biotix Pvt. Ltd.](https://urbanbiotix.in/) 
 
