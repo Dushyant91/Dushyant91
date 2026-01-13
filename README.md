@@ -38,7 +38,6 @@ B.Tech Computer Science student focused on problem-solving, clean code, and buil
 ## 🥷 SKILLS
 
 
-🛠 Skills
 🟨 Programming Languages
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,html,sql" /> </p> <p> Python · JavaScript · TypeScript · C · C++ · HTML · SQL </p>
 🎨 Frontend (Client Side)
