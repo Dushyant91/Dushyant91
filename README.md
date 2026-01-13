@@ -41,16 +41,17 @@ B.Tech Computer Science student focused on problem-solving, clean code, and buil
 🟨 Programming Languages
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,html,sql" /> </p> <p> Python · JavaScript · TypeScript · C · C++ · HTML · SQL </p>
 🎨 Frontend (Client Side)
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,ejs" /> </p> <p> React · HTML5 · CSS3 · Tailwind CSS · Bootstrap · EJS </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,ejs" /> </p> <p> React · Next.js · HTML5 · CSS3 · Tailwind CSS · Bootstrap · EJS </p>
 🧱 Backend (Server Side)
 <p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </p> <p> Node.js · Express.js </p>
 🗄 Databases
 <p align="left"> <img src="https://skillicons.dev/icons?i=mongodb,mysql,mongoose" /> </p> <p> MongoDB · MySQL · Mongoose </p>
+📚 Libraries
+<p align="left"> <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" /> </p> <p> NumPy · Pandas · Matplotlib </p>
 🛠 Tools
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" /> </p> <p> Git · GitHub · VS Code · Postman · npm </p>
 🚀 Deployment
 <p align="left"> <img src="https://skillicons.dev/icons?i=vercel,render,netlify" /> </p> <p> Vercel · Render · Netlify </p>
-
 
 ## ⏱ Coding Activity
 
