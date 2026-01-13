@@ -61,7 +61,6 @@ B.Tech Computer Science student focused on problem-solving, clean code, and buil
 ### 🚀 Deployment
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vercel,netlify" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Render_logo.svg" height="40"/>
 </p>
 <p>
   Vercel · Netlify · Render
