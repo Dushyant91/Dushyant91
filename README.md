@@ -2,13 +2,17 @@
 
 🎓 B.Tech (CSE) student at [JECRC University](https://jecrcuniversity.edu.in/) 
 
-🔬 Former Research & Development Intern at [Urban Biotix Pvt. Ltd.](https://urbanbiotix.in/) 
+🔭 I’m currently working on Web Projects.
 
-🧠 Actively exploring Machine Learning and modern Web Technologies 
+🧠 Actively exploring Machine Learning, Data Analysis, and modern Web Technologies
+
+🔬 Former Research & Development Intern at [Urban Biotix Pvt. Ltd.](https://urbanbiotix.in/) 
 
 🎯 Focused on building strong foundations and real-world software solutions
 
 🏃 Ultra-marathoner and 🏈American Football player, bringing discipline, resilience, and teamwork into tech.
+
+📧 Email: dsharma09012003@gmail.com 
 
 
 <p align="left">
