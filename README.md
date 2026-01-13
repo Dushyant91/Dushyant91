@@ -46,7 +46,7 @@ B.Tech Computer Science student focused on problem-solving, clean code, and buil
 <p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </p> <p> Node.js · Express.js </p>
 🗄 Databases
 <p align="left"> <img src="https://skillicons.dev/icons?i=mongodb,mysql,mongoose" /> </p> <p> MongoDB · MySQL · Mongoose </p>
-### 📚 Libraries
+📚 Libraries
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
