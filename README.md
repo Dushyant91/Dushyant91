@@ -50,3 +50,13 @@ B.Tech Computer Science student focused on problem-solving, clean code, and buil
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" /> </p> <p> Git · GitHub · VS Code · Postman · npm </p>
 🚀 Deployment
 <p align="left"> <img src="https://skillicons.dev/icons?i=vercel,render,netlify" /> </p> <p> Vercel · Render · Netlify </p>
+
+
+## ⏱ Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<p align="left">
+  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" />
+</p>
+
