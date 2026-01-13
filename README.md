@@ -78,3 +78,8 @@ B.Tech Computer Science student focused on problem-solving, clean code, and buil
 </p>
 
 
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dushyant91&layout=compact" />
+</p>
+
