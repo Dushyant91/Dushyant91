@@ -1,10 +1,14 @@
 ## HEY👋, I'm Dushyant Sharma
 
 🎓 B.Tech (CSE) student at [JECRC University](https://jecrcuniversity.edu.in/) 
-🔬 Former Research & Development Intern at [Urban Biotix Pvt. Ltd.](https://urbanbiotix.in/)  
+
+🔬 Former Research & Development Intern at [Urban Biotix Pvt. Ltd.](https://urbanbiotix.in/) 
+
 🧠 Actively exploring Machine Learning and modern Web Technologies 
+
 🎯 Focused on building strong foundations and real-world software solutions
-🏃 Ultra-marathoner and 🏈American Football player, bringing discipline, resilience, and teamwork into tech
+
+🏃 Ultra-marathoner and 🏈American Football player, bringing discipline, resilience, and teamwork into tech.
 
 
 <p align="left">
@@ -25,4 +29,8 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Dushyant91&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+
+👨‍💻 About Me
+B.Tech Computer Science student focused on problem-solving, clean code, and building practical software using modern web technologies and machine learning.
 
