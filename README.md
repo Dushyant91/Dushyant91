@@ -15,8 +15,8 @@
 <p align="left">
   <a href="mailto:dsharma09012003@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a> :dsharma09012003@gmail.com
-</p>:  
+  </a>:dsharma09012003@gmail.com
+</p>: 
 <p align="left">
   <a href="https://x.com/Dsharma09012003" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
