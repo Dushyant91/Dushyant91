@@ -38,15 +38,16 @@ B.Tech Computer Science student focused on problem-solving, clean code, and buil
 ## 🥷 SKILLS
 
 
+🛠 Skills
 🟨 Programming Languages
-<p align="left"> <img src="https://skillicons.dev/icons?i=python" height="40"/><br>Python<br><br> <img src="https://skillicons.dev/icons?i=javascript" height="40"/><br>JavaScript<br><br> <img src="https://skillicons.dev/icons?i=typescript" height="40"/><br>TypeScript<br><br> <img src="https://skillicons.dev/icons?i=c" height="40"/><br>C<br><br> <img src="https://skillicons.dev/icons?i=cpp" height="40"/><br>C++<br><br> <img src="https://skillicons.dev/icons?i=html" height="40"/><br>HTML<br><br> <img src="https://skillicons.dev/icons?i=sql" height="40"/><br>SQL </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,html,sql" /> </p> <p> Python · JavaScript · TypeScript · C · C++ · HTML · SQL </p>
 🎨 Frontend (Client Side)
-<p align="left"> <img src="https://skillicons.dev/icons?i=react" height="40"/><br>React<br><br> <img src="https://skillicons.dev/icons?i=html" height="40"/><br>HTML5<br><br> <img src="https://skillicons.dev/icons?i=css" height="40"/><br>CSS3<br><br> <img src="https://skillicons.dev/icons?i=tailwind" height="40"/><br>Tailwind CSS<br><br> <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/><br>Bootstrap<br><br> <img src="https://skillicons.dev/icons?i=ejs" height="40"/><br>EJS </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,ejs" /> </p> <p> React · HTML5 · CSS3 · Tailwind CSS · Bootstrap · EJS </p>
 🧱 Backend (Server Side)
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br>Node.js<br><br> <img src="https://skillicons.dev/icons?i=express" height="40"/><br>Express.js </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </p> <p> Node.js · Express.js </p>
 🗄 Databases
-<p align="left"> <img src="https://skillicons.dev/icons?i=mongodb" height="40"/><br>MongoDB<br><br> <img src="https://skillicons.dev/icons?i=mysql" height="40"/><br>MySQL<br><br> <img src="https://skillicons.dev/icons?i=mongoose" height="40"/><br>Mongoose </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=mongodb,mysql,mongoose" /> </p> <p> MongoDB · MySQL · Mongoose </p>
 🛠 Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=git" height="40"/><br>Git<br><br> <img src="https://skillicons.dev/icons?i=github" height="40"/><br>GitHub<br><br> <img src="https://skillicons.dev/icons?i=vscode" height="40"/><br>VS Code<br><br> <img src="https://skillicons.dev/icons?i=postman" height="40"/><br>Postman<br><br> <img src="https://skillicons.dev/icons?i=npm" height="40"/><br>npm </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" /> </p> <p> Git · GitHub · VS Code · Postman · npm </p>
 🚀 Deployment
-<p align="left"> <img src="https://skillicons.dev/icons?i=vercel" height="40"/><br>Vercel<br><br> <img src="https://skillicons.dev/icons?i=netlify" height="40"/><br>Netlify<br><br> <img src="https://skillicons.dev/icons?i=render" height="40"/><br>Render </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=vercel,render,netlify" /> </p> <p> Vercel · Render · Netlify </p>
