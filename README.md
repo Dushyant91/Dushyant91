@@ -32,5 +32,6 @@
 
 
 👨‍💻 About Me
+
 B.Tech Computer Science student focused on problem-solving, clean code, and building practical software using modern web technologies and machine learning.
 
