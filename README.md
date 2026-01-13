@@ -12,6 +12,8 @@
 
 🏃 Ultra-marathoner and 🏈American Football player, bringing discipline, resilience, and teamwork into tech.
 
+📧 Email: dsharma09012003@gmail.com 
+
 
 <p align="left">
   <a href="https://x.com/Dsharma09012003" target="_blank">
