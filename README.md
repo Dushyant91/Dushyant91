@@ -58,8 +58,15 @@ B.Tech Computer Science student focused on problem-solving, clean code, and buil
 
 🛠 Tools
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" /> </p> <p> Git · GitHub · VS Code · Postman · npm </p>
-🚀 Deployment
-<p align="left"> <img src="https://skillicons.dev/icons?i=vercel,render,netlify" /> </p> <p> Vercel · Render · Netlify </p>
+### 🚀 Deployment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Render_logo.svg" height="40"/>
+</p>
+<p>
+  Vercel · Netlify · Render
+</p>
+
 
 ## ⏱ Coding Activity
 
