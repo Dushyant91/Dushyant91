@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/88ab6964-176a-4110-881e-96dc469e44d6" />## HEY👋, I'm Dushyant Sharma
+## HEY👋, I'm Dushyant Sharma
 
 🎓 B.Tech (CSE) student at [JECRC University](https://jecrcuniversity.edu.in/) 
 
