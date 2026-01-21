@@ -1,10 +1,12 @@
-## HEY👋, I'm Dushyant Sharma
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/88ab6964-176a-4110-881e-96dc469e44d6" />## HEY👋, I'm Dushyant Sharma
 
 🎓 B.Tech (CSE) student at [JECRC University](https://jecrcuniversity.edu.in/) 
 
 🔭 I’m currently working on Web Projects.
 
 🧠 I'm currently learning Machine Learning, Data Analysis, DSA and modern Web Technologies
+
+📸 I regularly post on https://medium.com/@dsharma09012003
 
 🔬 Former Research & Development Intern at [Urban Biotix Pvt. Ltd.](https://urbanbiotix.in/) 
 
@@ -31,6 +33,7 @@
     <img src="https://img.shields.io/github/followers/Dushyant91?label=Follow&style=for-the-badge&logo=github" />
   </a>
 </p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Dushyant91&label=Profile%20Views&color=0e75b6&style=flat" />
