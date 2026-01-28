@@ -6,7 +6,6 @@
 
 🧠 I'm currently learning Machine Learning, Data Analysis, DSA and modern Web Technologies
 
-📸 I regularly post on https://medium.com/@dsharma09012003
 
 🔬 Former Research & Development Intern at [Urban Biotix Pvt. Ltd.](https://urbanbiotix.in/) 
 
@@ -15,6 +14,10 @@
 🏃 Ultra-marathoner and 🏈American Football player, bringing discipline, resilience, and teamwork into tech.
 
 💡Improving a little, every day.
+
+📸 I regularly post on https://medium.com/@dsharma09012003
+
+🌳Linktree https://linktr.ee/DustyDushyant
 
 📧 Email: dsharma09012003@gmail.com 
 
